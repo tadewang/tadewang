@@ -1,3 +1,5 @@
+<img align='right' src='https://cdn.jsdelivr.net/gh/RimoChan/rimochan-cookbook/外/00.webp' width='410px'>
+
 - 👋 Hi, I’m @duweikang,一名不务正业的前端开发工程师
 - 👀 加油努力做一个名 web全栈开发工程师
 - 🌱 I’m currently learning nest.js、react
