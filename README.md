@@ -6,6 +6,8 @@
 - 💞️ 从事web开发、h5开发、app开发、小程序开发.
 - 📫 联系我QQ：3333331773.
 
+[![Duweikang's github stats](https://github-readme-stats.vercel.app/api?username=duweikang "![Duweikang's github stats")](https://github.com/duweikang/duweikang)
+
 <!---
 duweikang/duweikang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
