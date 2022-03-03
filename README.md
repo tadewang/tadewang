@@ -2,5 +2,5 @@
 - 👀 加油努力做一个名全栈开发工程师.
 - 🌱 stay young. stay hungry.
 - 💞️ 从事web开发、h5开发、app开发、小程序开发.
-- 😏 掌握html5、css3、js、jq、vue、react、uniapp、weapp、servless、java, all in wechat cloud
+- 😏 掌握html5、css3、js、jq、vue、react、uniapp、weapp、servless、java, all in wechat cloud.
 - 📫 联系我QQ：3333331773.
