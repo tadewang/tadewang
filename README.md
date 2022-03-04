@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @duweikang,一名不务正业的前端开发工程师.
+- 👋 Hi, I’m @tadewang,一名不务正业的前端开发工程师.
 - 👀 加油努力做一个名全栈开发工程师.
 - 🌱 stay young. stay hungry.
 - 💞️ 从事web开发、h5开发、app开发、小程序开发.
